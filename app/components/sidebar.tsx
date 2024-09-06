@@ -305,7 +305,7 @@ export function SideBar(props: { className?: string }) {
               </Link>
             </div>
             <div className={styles["sidebar-action"]}>
-              <a href={REPO_URL} target="_blank" rel="noopener noreferrer">
+              <a href="https://gantanhao.vip/webapp/weixiaodian/index.html?shop_id=302822" target="_blank" rel="noopener noreferrer">
                 <IconButton
                   aria={Locale.Export.MessageFromChatGPT}
                   icon={<GithubIcon />}
